@@ -1,2 +1,2 @@
 # dataviz
-Repository for dataviz files.
+Repository for small data visualization projects. 
